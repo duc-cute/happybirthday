@@ -73,7 +73,8 @@ body {
     -webkit-text-fill-color: rgba(0, 200, 200, 0.1);
     -webkit-background-clip: text;
 /*     background-image: url(./img/star.gif); */
-    background-image:url(https://github.com/duc-cute/happybirthday/blob/master/img/star.gif);
+/*     background-image:url(https://github.com/duc-cute/happybirthday/blob/master/img/star.gif); */
+    background:url(https://github.com/duc-cute/happybirthday/blob/master/img/star.gif) top center /cover no-repeat;
     font-family: 'Allura', cursive;
     padding: -2%;
     font-size: 19px;
