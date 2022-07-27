@@ -72,8 +72,8 @@ body {
     text-align: center;
     -webkit-text-fill-color: rgba(0, 200, 200, 0.1);
     -webkit-background-clip: text;
-/*     background-image: url(https://img1.picmix.com/output/stamp/normal/1/0/3/0/1820301_1e203.gif); */
-        background-image: url(../img/star.gif);
+    background-image: url(https://img1.picmix.com/output/stamp/normal/1/0/3/0/1820301_1e203.gif); 
+      
 
 
     font-family: 'Allura', cursive;
@@ -191,9 +191,7 @@ h4 {
     text-align: center;
     -webkit-text-fill-color: rgba(0, 200, 200, 0.1);
     -webkit-background-clip: text;
-/*         background-image: url(https://img1.picmix.com/output/stamp/normal/1/0/3/0/1820301_1e203.gif); */
-        background-image: url(../img/star.gif);
-
+        background-image: url(https://img1.picmix.com/output/stamp/normal/1/0/3/0/1820301_1e203.gif);
 
     font-family: 'Allura', cursive;
     padding: -2%;
